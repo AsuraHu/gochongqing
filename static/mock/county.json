@@ -1,0 +1,784 @@
+{
+  "ret": true,
+  "data": {
+    "county": "潼南区",
+    "hotCounty": [
+      {
+      "id": "shapbq",
+      "county": "沙坪坝区"
+      },
+      {
+        "id": "jiulpq",
+        "county": "九龙坡区"
+      },
+      {
+        "id": "nanaq",
+        "county": "南岸区"
+      },
+      {
+        "id": "beibq",
+        "county": "北碚区"
+      },
+      {
+        "id": "yubq",
+        "county": "渝北区"
+      },
+      {
+        "id": "banq",
+        "county": "巴南区"
+      }
+    ],
+    "allCounty": [
+      {
+        "id": "wanzhouqu",
+        "county": "万州区"
+      },
+      {
+        "id": "fulingqu",
+        "county": "涪陵区"
+      },
+      {
+        "id": "yuzhongqu",
+        "county": "渝中区"
+      },
+      {
+        "id": "dadukouqu",
+        "county": "大渡口区"
+      },
+      {
+        "id": "jiangbq",
+        "county": "江北区"
+      },
+      {
+        "id": "shapbeiqu",
+        "county": "沙坪坝区"
+      },
+      {
+        "id": "jiulongpoqu",
+        "county": "九龙坡区"
+      },
+      {
+        "id": "nananqu",
+        "county": "南岸区"
+      },
+      {
+        "id": "beibeiqu",
+        "county": "北碚区"
+      },
+      {
+        "id": "yubeiqu",
+        "county": "渝北区"
+      },
+      {
+        "id": "bananqu",
+        "county": "巴南区"
+      },
+      {
+        "id": "qianjiangqu",
+        "county": "黔江区"
+      },
+      {
+        "id": "changshouqu",
+        "county": "长寿区"
+      },
+      {
+        "id": "qijiangqu",
+        "county": "綦江区"
+      },
+      {
+        "id": "tongnanqu",
+        "county": "潼南区"
+      },
+      {
+        "id": "tongliangqu",
+        "county": "铜梁区"
+      },
+      {
+        "id": "dazhuqu",
+        "county": "大足区"
+      },
+      {
+        "id": "rongcangqu",
+        "county": "荣昌区"
+      },
+      {
+        "id": "bishanqu",
+        "county": "璧山区"
+      },
+      {
+        "id": "liangpingqu",
+        "county": "梁平区"
+      },
+      {
+        "id": "cehngkouxian",
+        "county": "城口县"
+      },
+      {
+        "id": "fengduxiang",
+        "county": "丰都县"
+      },
+      {
+        "id": "dianjiangqu",
+        "county": "垫江县"
+      },
+      {
+        "id": "wulongqu",
+        "county": "武隆区"
+      },
+      {
+        "id": "zongxian",
+        "county": "忠县"
+      },
+      {
+        "id": "kaizhouqu",
+        "county": "开州区"
+      },
+      {
+        "id": "yunyangxian",
+        "county": "云阳县"
+      },
+      {
+        "id": "fengjiexian",
+        "county": "奉节县"
+      },
+      {
+        "id": "wushanxian",
+        "county": "巫山县"
+      },
+      {
+        "id": "wuxixian",
+        "county": "巫溪县"
+      },
+      {
+        "id": "jiangjinqu",
+        "county": "江津区"
+      },
+      {
+        "id": "hechaungqu",
+        "county": "合川区"
+      },
+      {
+        "id": "yongchuangqu",
+        "county": "永川区"
+      },
+      {
+        "id": "nanchuanqu",
+        "county": "南川区"
+      },
+      {
+        "id": "shiztjzzzx",
+        "county": "石柱土家族自治县"
+      },
+      {
+        "id": "xiushantujiazhumiaozhuzizhixian",
+        "county": "秀山土家族苗族自治县"
+      },
+      {
+        "id": "youyangtujiazhumiaozhuzizhixian",
+        "county": "酉阳土家族苗族自治县"
+      },
+      {
+        "id": "pengshuimiaozhutujiazhuzizhixian",
+        "county": "彭水苗族土家族自治县"
+      }
+    ],
+    "hotAttractions": [
+      {
+        "id": 1,
+        "attr": "洪崖洞"
+      },
+      {
+        "id": 2,
+        "attr": "重庆解放碑"
+      },
+      {
+        "id": 3,
+        "attr": "磁器口古镇"
+      },
+      {
+        "id": 4,
+        "attr": "南山一颗树"
+      },
+      {
+        "id": 5,
+        "attr": "仙女山"
+      },
+      {
+        "id": 6,
+        "attr": "芙蓉洞"
+      },
+       {
+         "id": 7,
+         "attr": "武隆龙水峡地缝"
+       }
+    ],
+    "allAttractions": {
+      "A": [
+        {
+          "id": 1,
+          "spell": "aotishuigongyuan",
+          "name": "奥体水公园"
+        }, {
+          "id": 2,
+          "spell": "aotaojigongyuan",
+          "name": "奥陶纪公园"
+        }, {
+          "id": 3,
+          "spell": "anjuguzheng",
+          "name": "安居古镇"
+        }, {
+          "id": 4,
+          "spell": "aiyihe",
+          "name": "阿依河"
+        }, {
+          "id": 5,
+          "spell": "aiqingtianti",
+          "name": "爱情天梯"
+        }, {
+          "id": 6,
+          "spell": "apengjiangdaxiagu",
+          "name": "阿蓬江大峡谷"
+        }
+      ],
+      "B": [
+        {
+          "id": 7,
+          "spell": "balahujingqu",
+          "name": "芭拉胡景区"
+        }, {
+          "id": 8,
+          "spell": "baidicheng",
+          "name": "白帝城"
+        }, {
+          "id": 9,
+          "spell": "baolunsi",
+          "name": "宝轮寺"
+        }, {
+          "id": 10,
+          "spell": "baigongci",
+          "name": "白公祠"
+        }, {
+          "id": 11,
+          "spell": "bamanzimu",
+          "name": "巴曼子墓"
+        }
+      ],
+      "C": [
+        {
+          "id": 12,
+          "spell": "chongqingwanshengqulonglingshihai",
+          "name": "重庆万盛区龙鳞石海"
+        }, {
+          "id": 13,
+          "spell": "changjiangsanxia",
+          "name": "长江三峡"
+        }, {
+          "id": 14,
+          "spell": "chongqingnansanfengjingqu",
+          "name": "重庆南山风景区"
+        }, {
+          "id": 15,
+          "spell": "chongqingyouyangtaohuayuanjingqu",
+          "name": "重庆酉阳桃花源景区"
+        }, {
+          "id": 16,
+          "spell": "chongqingwanshengheishangushengtailvyoujingqu",
+          "name": "重庆万盛黑山谷生态旅游区"
+        }, {
+          "id": 17,
+          "spell": "chongqingjinguoyuanshengtailvyouqu",
+          "name": "重庆金果园生态旅游区"
+        }, {
+          "id": 18,
+          "spell": "chongqingfenghuanghuahai",
+          "name": "重庆凤凰花海"
+        }, {
+          "id": 19,
+          "spell": "chashenghuahaishengtailvyouqu",
+          "name": "茶山花海生态旅游区"
+        }
+      ],
+      "D": [
+        {
+          "id": 20,
+          "spell": "diaoyucheng",
+          "name": "钓鱼城"
+        }, {
+          "id": 21,
+          "spell": "daninghewenhuashengtaichanglang",
+          "name": "大宁河文化生态长廊"
+        }, {
+          "id": 22,
+          "spell": "dafosi",
+          "name": "大佛寺"
+        }, {
+          "id": 23,
+          "spell": "dahanmingguolinshizhengfujiuzhichenlieguan",
+          "name": "大韩民国临时政府旧址陈列馆"
+        }, {
+          "id": 24,
+          "spell": "dongminghu",
+          "name": "东明湖"
+        }
+      ],
+      "E": [
+        {
+          "id": 25,
+          "spell": "erfosi",
+          "name": "二佛寺"
+        }, {
+          "id": 26,
+          "spell": "elinggongyuan",
+          "name": "鹅岭公园"
+        }, {
+          "id": 27,
+          "spell": "elingerchang",
+          "name": "鹅岭二厂"
+        }, {
+          "id": 28,
+          "spell": "elinggongyuan",
+          "name": "鹅岭公园"
+        }, {
+          "id": 29,
+          "spell": "erfosi",
+          "name": "二佛寺"
+        }
+      ],
+      "F": [
+        {
+          "id": 30,
+          "spell": "furongdong",
+          "name": "芙蓉洞"
+        }, {
+          "id": 31,
+          "spell": "fengduxueyudong",
+          "name": "丰都雪玉洞"
+        }, {
+          "id": 32,
+          "spell": "fengshangongyuan",
+          "name": "凤山公园"
+        }, {
+          "id": 33,
+          "spell": "fulingwenquancheng",
+          "name": "涪陵温泉城"
+        }, {
+          "id": 34,
+          "spell": "foyinxia",
+          "name": "佛影峡"
+        }
+      ],
+      "G": [
+        {
+          "id": 35,
+          "spell": "guichengfengdu",
+          "name": "鬼城丰都"
+        }, {
+          "id": 36,
+          "spell": "gujianshan",
+          "name": "古剑山"
+        }, {
+          "id": 37,
+          "spell": "huabalvyoujingqu",
+          "name": "花坝旅游景区"
+        }, {
+          "id": 38,
+          "spell": "guiguoshengong",
+          "name": "鬼国神宫"
+        }, {
+          "id": 39,
+          "spell": "gushengsi",
+          "name": "古圣寺"
+        }
+      ],
+      "H": [
+        {
+          "id": 40,
+          "spell": "huayanluyoufengjingqu",
+          "name": "华岩旅游风景区"
+        }, {
+          "id": 41,
+          "spell": "huguanghuiguan",
+          "name": "湖广会馆"
+        }, {
+          "id": 42,
+          "spell": "huayansi",
+          "name": "华岩寺"
+        }, {
+          "id": 43,
+          "spell": "huangquanlu",
+          "name": "黄泉路"
+        }, {
+          "id": 44,
+          "spell": "hongyancungemingjinianguan",
+          "name": "红岩村革命纪念馆"
+        }, {
+          "id": 45,
+          "spell": "huangguoshanbailiguoxiang",
+          "name": "黄瓜山百里果乡"
+        }
+      ],
+      "J": [
+        {
+          "id": 46,
+          "spell": "jinyunsi",
+          "name": "缙云寺"
+        }, {
+          "id": 47,
+          "spell": "jinyunshan",
+          "name": "缙云山"
+        }, {
+          "id": 48,
+          "spell": "jiangjiarongdongfengjingqu",
+          "name": "姜家溶洞风景区"
+        }, {
+          "id": 49,
+          "spell": "jinfosi",
+          "name": "金佛寺"
+        }, {
+          "id": 50,
+          "spell": "jiangjinlierongqiyuansuaichenlieguan",
+          "name": "江津聂荣臻元帅陈列馆"
+        }, {
+          "id": 51,
+          "spell": "jinguoshengtailvyouqu",
+          "name": "金果生态旅游区"
+        }
+      ],
+      "K": [
+        {
+          "id": 52,
+          "spell": "kanggufengjingqu",
+          "name": "亢谷风景区"
+        }, {
+          "id": 53,
+          "spell": "kangzhanyizhibowuguan",
+          "name": "抗战遗址博物馆"
+        }, {
+          "id": 54,
+          "spell": "konggongguan",
+          "name": "孔公馆"
+        }, {
+          "id": 55,
+          "spell": "kongmingbei",
+          "name": "孔明碑"
+        }, {
+          "id": 56,
+          "spell": "kuimeng",
+          "name": "夔门"
+        }
+      ],
+      "L": [
+        {
+          "id": 57,
+          "spell": "laojundong",
+          "name": "老君洞"
+        }, {
+          "id": 58,
+          "spell": "luohansi",
+          "name": "罗汉寺"
+        }, {
+          "id": 59,
+          "spell": "liubochengguju",
+          "name": "刘伯承故居"
+        }, {
+          "id": 60,
+          "spell": "liangpingxiandongminghujingqu",
+          "name": "梁平县东明湖景区"
+        }, {
+          "id": 61,
+          "spell": "lizibaqingguizhan",
+          "name": "李子坝轻轨站"
+        }, {
+          "id": 62,
+          "spell": "lizhiyuanjingqu",
+          "name": "荔枝园景区"
+        }, {
+          "id": 63,
+          "spell": "lehuatiangu",
+          "name": "乐天花谷"
+        }, {
+          "id": 64,
+          "spell": "lushannongyeguanguangyuan",
+          "name": "鹿山农业观光园"
+        }, {
+          "id": 65,
+          "spell": "liangfengyucun",
+          "name": "凉风渔村"
+        }
+      ],
+      "M": [
+        {
+          "id": 66,
+          "spell": "mituochanyuan",
+          "name": "弥陀禅院"
+        }, {
+          "id": 67,
+          "spell": "moweisanfengjingqu",
+          "name": "摩围山风景区"
+        }, {
+          "id": 68,
+          "spell": "mingliangdian",
+          "name": "明良殿"
+        }, {
+          "id": 69,
+          "spell": "maocaobahuaxuechang",
+          "name": "茅草坝滑雪场"
+        }, {
+          "id": 70,
+          "spell": "maoyunshan",
+          "name": "茂云山"
+        }
+      ],
+      "N": [
+        {
+          "id": 71,
+          "spell": "baiheqiao",
+          "name": "奈何桥"
+        }, {
+          "id": 72,
+          "spell": "nanyadafochansi",
+          "name": "南雅大佛禅寺"
+        }, {
+          "id": 73,
+          "spell": "nanhu",
+          "name": "南湖"
+        }, {
+          "id": 74,
+          "spell": "nanhuduocaizhiwuyaun",
+          "name": "南湖多彩植物园"
+        }, {
+          "id": 75,
+          "spell": "nanzhushanshenlingongyuan",
+          "name": "楠竹山森林公园"
+        }, {
+          "id": 76,
+          "spell": "nantuohailinshengtaiheizhuyangzhijidi",
+          "name": "南沱海林生态黑猪养殖基地"
+        }
+      ],
+      "P": [
+        {
+          "id": 77,
+          "spell": "pipashangongyuan",
+          "name": "枇杷山公园"
+        }, {
+          "id": 78,
+          "spell": "puhuaanhe",
+          "name": "蒲花暗河"
+        }
+      ],
+      "Q": [
+        {
+          "id": 79,
+          "spell": "qixiagong",
+          "name": "栖霞宫"
+        }, {
+          "id": 80,
+          "spell": "qiaokouba",
+          "name": "桥口坝"
+        }, {
+          "id": 81,
+          "spell": "qinglongqiao",
+          "name": "青龙硚"
+        }, {
+          "id": 82,
+          "spell": "qingshanhuguojiashidigongyuan",
+          "name": "青山湖国家湿地公园"
+        }, {
+          "id": 83,
+          "spell": "qishancaochang",
+          "name": "岐山草场"
+        }
+      ],
+      "R": [
+        {
+          "id": 84,
+          "spell": "rongcanghaitanggongyuan",
+          "name": "荣昌海棠公园"
+        }, {
+          "id": 85,
+          "spell": "ronghuiwenquan",
+          "name": "融汇温泉"
+        }, {
+          "id": 86,
+          "spell": "rongcangtaoqingshaonianshixunjidi",
+          "name": "荣昌陶青少年实训基地"
+        }
+      ],
+      "S": [
+        {
+          "id": 87,
+          "spell": "sanxiajuhaijingqu",
+          "name": "三峡橘海景区"
+        }, {
+          "id": 88,
+          "spell": "santaibajing",
+          "name": "三台八景"
+        }, {
+          "id": 89,
+          "spell": "sanchengyejing",
+          "name": "山城夜景"
+        }, {
+          "id": 90,
+          "spell": "sanxiaticheng",
+          "name": "三峡梯城"
+        }, {
+          "id": 91,
+          "spell": "sanxialvyouqu",
+          "name": "三峡旅游区"
+        }, {
+          "id": 92,
+          "spell": "shengshihuadu",
+          "name": "盛世花都"
+        }
+      ],
+      "T": [
+        {
+          "id": 93,
+          "spell": "tianzhujiaoruosetang",
+          "name": "天主教若瑟堂"
+        }, {
+          "id": 94,
+          "spell": "tongjingyinhelihuashengtailuyouqu",
+          "name": "统景印盒李花生态旅游区"
+        }, {
+          "id": 95,
+          "spell": "tianshengsanqiao",
+          "name": "天生三桥"
+        }, {
+          "id": 96,
+          "spell": "tianjingxiadifeng",
+          "name": "天井峡地缝"
+        }, {
+          "id": 97,
+          "spell": "tongliangbowuguan",
+          "name": "铜梁博物馆"
+        }, {
+          "id": 98,
+          "spell": "tongnanyoucaihuajingqu",
+          "name": "潼南油菜花景区"
+        }, {
+          "id": 99,
+          "spell": "tongnanmeiguihuakainongyeguanguangyuan",
+          "name": "潼南玫瑰花开农业观光园"
+        }
+      ],
+      "W": [
+        {
+          "id": 100,
+          "spell": "wulingshandaliegu",
+          "name": "武陵山大裂谷"
+        }, {
+          "id": 101,
+          "spell": "wulong",
+          "name": "武隆"
+        }, {
+          "id": 102,
+          "spell": "wuxia",
+          "name": "巫峡"
+        }, {
+          "id": 103,
+          "spell": "wujianghualang",
+          "name": "乌江画廊"
+        }, {
+          "id": 104,
+          "spell": "wanshengshilin",
+          "name": "万盛石林"
+        }, {
+          "id": 105,
+          "spell": "wuzhoushengtaiyuan",
+          "name": "五洲生态园"
+        }, {
+          "id": 106,
+          "spell": "wanshengqingshanhushanggucunluo",
+          "name": "万盛青山湖尚古村落"
+        }
+      ],
+      "X": [
+        {
+          "id": 107,
+          "spell": "xiaonanhai",
+          "name": "小南海"
+        }, {
+          "id": 108,
+          "spell": "xuankongwofo",
+          "name": "悬空卧佛"
+        }, {
+          "id": 109,
+          "spell": "xiaotianxibawangmuqun",
+          "name": "小田溪巴王墓群"
+        }, {
+          "id": 110,
+          "spell": "xiuhugongyuan",
+          "name": "秀湖公园"
+        }, {
+          "id": 111,
+          "spell": "xiuquanyingyuewenquan",
+          "name": "秀泉映月温泉"
+        }, {
+          "id": 112,
+          "spell": "xiangcunyinxiangshengtainongzhuang",
+          "name": "乡村印象生态农庄"
+        }, {
+          "id": 113,
+          "spell": "xibuguihuabolanyuan",
+          "name": "西部桂花博览园"
+        }, {
+          "id": 114,
+          "spell": "xinglonghuahai",
+          "name": "兴隆花海"
+        }
+      ],
+      "Y": [
+        {
+          "id": 115,
+          "spell": "yuhuangdian",
+          "name": "玉皇殿"
+        }, {
+          "id": 116,
+          "spell": "yangangongjiuju",
+          "name": "杨闇公旧居"
+        }, {
+          "id": 117,
+          "spell": "yinxingtang",
+          "name": "银杏堂"
+        }, {
+          "id": 118,
+          "spell": "yuximingzhuzhongyanggongyuan",
+          "name": "渝西明珠·中央公园"
+        }, {
+          "id": 119,
+          "spell": "yunyangchangjiangdaqiao",
+          "name": "云阳长江大桥"
+        }
+      ],
+      "Z": [
+        {
+          "id": 120,
+          "spell": "zhangguan",
+          "name": "张关"
+        }, {
+          "id": 121,
+          "spell": "zhaoshiyanguju",
+          "name": "赵世炎故居"
+        }, {
+          "id": 122,
+          "spell": "zhangzizongjiangjunmu",
+          "name": "张自忠将军墓"
+        }, {
+          "id": 123,
+          "spell": "zongyici",
+          "name": "忠义祠"
+        }, {
+          "id": 124,
+          "spell": "zhaomushanzhiwuyuan",
+          "name": "照母山植物园"
+        }, {
+          "id": 125,
+          "spell": "zihaiyuntian",
+          "name": "紫海云天"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ret": true,
+  "data": {
+    "location": {
+      "id": "hongyadong"
+    },
+
+    "hongyadong": {
+      "bannerList": [{
+        "id": "img01",
+        "url": "https://m.tuniucdn.com/fb2/t1/G5/M00/47/D9/Cii-s1sqDFaIA3PSACF4_KgHptgAAI2TQMx_0AAIXkU392_w600_h0_c0_t0.jpg"
+      }, {
+        "id": "img02",
+        "url": "https://m.tuniucdn.com/fb2/t1/G5/M00/47/D8/Cii-tFsqDA-IJWcdAARNLqbP1NcAAI2SwKQ5d8ABE1G950_w600_h0_c0_t0.jpg"
+      }, {
+        "id": "img03",
+        "url": "https://m.tuniucdn.com/fb2/t1/G5/M00/47/D9/Cii-s1sqDCiIaNbqABR8UaN-3X8AAI2TAEKi_gAFHxp244_w600_h0_c0_t0.jpg"
+      }]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "ret": true,
+  "data": {
+    "county": "潼南区",
+    "swiperList": [
+      {
+        "id": "0001",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/D8/Cii-tFsqDA-IJWcdAARNLqbP1NcAAI2SwKQ5d8ABE1G950_w300_h145_c1_t0.jpg",
+        "alt": "洪崖洞"
+      }, {
+        "id": "0002",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/E3/Cii-tFsqDyyITQhmABWcMd9on7AAAI2YgN3pZQAFZxJ487_w300_h145_c1_t0.jpg",
+        "alt": "解放碑"
+      }, {
+        "id": "0003",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/F9/Cii-tFsqFgCIKhs8ABTEpNfmGIMAAI2lQAAAAAAFMS8600_w300_h145_c1_t0.jpg",
+        "alt": "磁器口"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "url": "jindian",
+        "desc": "景点"
+      },
+      {
+        "id": "0002",
+        "url": "jiudian",
+        "desc": "酒店"
+      },
+      {
+        "id": "0003",
+        "url": "meisi",
+        "desc": "美食"
+      },
+      {
+        "id": "0004",
+        "url": "gouwu",
+        "desc": "购物"
+      },
+      {
+        "id": "0005",
+        "url": "yule",
+        "desc": "娱乐"
+      },
+      {
+        "id": "0006",
+        "url": "youji",
+        "desc": "游记"
+      },
+      {
+        "id": "0007",
+        "url": "dianping",
+        "desc": "点评"
+      },
+      {
+        "id": "0008",
+        "url": "tupian",
+        "desc": "图片"
+      },
+      {
+        "id": "0009",
+        "url": "jiaotong",
+        "desc": "交通"
+      },
+      {
+        "id": "0010",
+        "url": "wenda",
+        "desc": "问答"
+      }
+    ],
+    "hotList": [
+      {
+        "id": "hongyadong",
+        "title": "洪崖洞",
+        "desc": "洪崖洞拥有2300多年的历史。“洪崖洞民俗风貌区”项目是2005年重庆市政府“八大民心工程”之一，总面积...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/D8/Cii-tFsqDA-IJWcdAARNLqbP1NcAAI2SwKQ5d8ABE1G950_w300_h145_c1_t0.jpg",
+        "location": "地址：重庆市渝中区嘉滨路88号"
+      },
+      {
+        "id": "jifangbei",
+        "title": "解放碑",
+        "desc": "解放碑位于重庆主城渝中区民权路、民族路和邹容路交汇处，是重庆标志性建筑物。全国唯一的一座纪念...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/DF/Cii-tFsqDfyIC5ghAC3hcB3BDjoAAI2WgFpxowALeGI771_w300_h145_c1_t0.jpg",
+        "location": "地址：重庆市渝中区解放碑周边区域"
+      },
+      {
+        "id": "ciqikou",
+        "title": "磁器口",
+        "desc": "磁器口古镇（原名龙隐镇），位于重庆城西14公里的嘉陵江畔。自明、清时期以来磁器口古镇名扬巴蜀大地...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/47/F9/Cii-tFsqFgCIKhs8ABTEpNfmGIMAAI2lQAAAAAAFMS8600_w300_h145_c1_t0.jpg",
+        "location": "地址：重庆市沙坪坝区磁器口镇"
+      }
+    ],
+    "cateList": [
+      {
+        "id": "hongyadong",
+        "title": "火锅",
+        "desc": "来到重庆，怎能不品尝热辣的重庆火锅呢？冬天吃了暖身，夏天更要火辣辣，看一锅红油鲜香，翻滚着...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/19/85/Cii-tFsM75GINzsEAIArC_IVzecAAHjuwGrxSgAgCsj177_w320_h180_c1_t0.jpg",
+        "recommendNum": 457
+      },
+      {
+        "id": "jifangbei",
+        "title": "钵钵鸡",
+        "desc": "钵钵鸡是一种四川传统名小吃，起源于乐山 [1-3] ，属于川菜系。从清代流传至今已有上百年的历史。是以陶器...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/1A/16/Cii-s1sNIeaIWBJAAEji5Cw5zCMAAHktAK4jawASOL8387_w320_h180_c1_t0.jpg",
+        "recommendNum": 356
+      },
+      {
+        "id": "chongqingxiaomian",
+        "title": "重庆小面",
+        "desc": "重庆小面是一款发源于重庆市，是一种的汉族地方特色传统小吃。属于渝菜。小面属于汤面类型，麻辣味型。狭义的小面...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/19/92/Cii-s1sM9G2IXiwqAAwjBV4bsWYAAHj1gCm1t0ADCMd966_w320_h180_c1_t0.jpg",
+        "recommendNum": 245
+      },
+      {
+        "id": "shuizhuyu",
+        "title": "水煮鱼",
+        "desc": "水煮鱼上的辣椒宴，刚端上桌就能听到辣子油滋滋的响，一颗颗的辣椒在里面纵情翻滚！看上去都食指大动，重点是...",
+        "url": "//m.tuniucdn.com/fb2/t1/G5/M00/1A/12/Cii-s1sNIAyIdPkBAAkjRpWKEykAAHkrANQSskACSNe947_w320_h180_c1_t0.jpg",
+        "recommendNum": 345
+      }
+    ],
+    "message": [
+      {
+        "id": "msg1",
+        "content": "抖音带火新晋网红城市重庆 途牛暑期重庆游预订火爆"
+      },
+      {
+        "id": "msg3",
+        "content": "2017重庆江津四面山生态五项极限挑战赛正式开展"
+      },
+      {
+        "id": "msg4",
+        "content": "保护老街历史文化传承 修缮工作有序开展"
+      },
+      {
+        "id": "msg5",
+        "content": "美丽重庆 自在南山"
+      },
+      {
+        "id": "msg6",
+        "content": "重庆举行重大旅游招商项目集中签约 共签约43个旅游项目"
+      }
+      ],
+    "attraction": [
+      {
+        "id": "addr1",
+        "name": "洪崖洞"
+      },
+      {
+        "id": "addr2",
+        "name": "磁器口古镇"
+      },
+      {
+        "id": "addr3",
+        "name": "重庆解放碑"
+      },
+      {
+        "id": "addr4",
+        "name": "南山一棵树"
+      },
+      {
+        "id": "addr5",
+        "name": "李子坝轻轨站"
+      },
+      {
+        "id": "addr6",
+        "name": "大足石刻"
+      },
+      {
+        "id": "addr7",
+        "name": "渣滓洞"
+      },
+      {
+        "id": "addr8",
+        "name": "重庆朝天门"
+      },
+      {
+        "id": "addr9",
+        "name": "天生三桥"
+      },
+      {
+        "id": "addr10",
+        "name": "仙女山"
+      },
+      {
+        "id": "addr11",
+        "name": "武隆龙水峡地缝"
+      },
+      {
+        "id": "addr12",
+        "name": "芙蓉洞"
+      },
+      {
+        "id": "addr13",
+        "name": "重庆湖广会馆"
+      },
+      {
+        "id": "addr14",
+        "name": "美心洋人街"
+      },
+      {
+        "id": "addr15",
+        "name": "武隆天坑三桥景区"
+      }
+    ]
+  }
+}
